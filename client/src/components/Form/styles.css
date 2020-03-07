@@ -1,0 +1,13 @@
+#searchBtn {
+    background-color: goldenrod;
+    color: black;
+}
+
+#searchBtn:hover {
+    background-color: black;
+    color: goldenrod;
+}
+
+.form-group, h2 {
+    text-align: center;
+}
